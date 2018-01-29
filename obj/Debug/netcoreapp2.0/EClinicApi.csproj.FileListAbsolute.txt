@@ -1,0 +1,11 @@
+C:\EClinicApi\bin\Debug\netcoreapp2.0\EClinicApi.deps.json
+C:\EClinicApi\bin\Debug\netcoreapp2.0\EClinicApi.runtimeconfig.json
+C:\EClinicApi\bin\Debug\netcoreapp2.0\EClinicApi.runtimeconfig.dev.json
+C:\EClinicApi\bin\Debug\netcoreapp2.0\EClinicApi.dll
+C:\EClinicApi\bin\Debug\netcoreapp2.0\EClinicApi.pdb
+C:\EClinicApi\obj\Debug\netcoreapp2.0\EClinicApi.csproj.CoreCompileInputs.cache
+C:\EClinicApi\obj\Debug\netcoreapp2.0\EClinicApi.AssemblyInfoInputs.cache
+C:\EClinicApi\obj\Debug\netcoreapp2.0\EClinicApi.AssemblyInfo.cs
+C:\EClinicApi\obj\Debug\netcoreapp2.0\EClinicApi.dll
+C:\EClinicApi\obj\Debug\netcoreapp2.0\EClinicApi.pdb
+C:\EClinicApi\obj\Debug\netcoreapp2.0\EClinicApi.csprojResolveAssemblyReference.cache
