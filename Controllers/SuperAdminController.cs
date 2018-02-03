@@ -64,9 +64,11 @@ namespace EClinicApi.Controllers
 
             var user = _mapper.Map<UserProfile>(userProfile);
             Random rand = new Random();
+            
 
             user.Id = rand.Next(10,15);
             data.UserProfiles.Add(user);
+         
             switch (userProfile.AccessLevel)
             {
                 case "Doctor":
@@ -136,6 +138,14 @@ namespace EClinicApi.Controllers
             return BadRequest("OOps something happened try again!");
                 
 
+
+        }
+        
+        public IActionResult EditUser(UserProfileDTO userProfileDTO)
+        {
+            var EditUser = _mapper.Map<UserProfile>(userProfileDTO);
+            var OldUser = data.UserProfiles.Find(EditUser.Id);
+            data.UserProfiles.Attach
 
         }
 
